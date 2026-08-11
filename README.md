@@ -10,7 +10,7 @@ Técnico em Desenvolvimento de Sistemas - 1IE
 O objetivo deste projeto é desenvolver uma página web utilizando HTML, colocando em prática os conhecimentos aprendidos em aula sobre a estrutura de uma página, utilização de títulos, textos, imagens e links.
 
 ### 👔 Filme escolhido
-**The Mentalist**
+The Mentalist
 
 ### 🧠 Tecnologias utilizadas
 - HTML5
