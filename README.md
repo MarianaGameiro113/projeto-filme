@@ -17,7 +17,7 @@ O objetivo deste projeto é desenvolver uma página web utilizando HTML, colocan
 - GitHub
 
 ### ☺ Descrição do projeto
-A página foi desenvolvida com o objetivo de apresentar informações sobre a série **The Mentalist**, incluindo seu ano de produção, diretor, duração, classificação, gênero e país de origem.
+A página foi desenvolvida com o objetivo de apresentar informações sobre a série *The Mentalist*, incluindo seu ano de produção, diretor, duração, classificação, gênero e país de origem.
 
 Também foi adicionada uma imagem relacionada à série, uma breve sinopse e um link para uma página com mais informações.
 
